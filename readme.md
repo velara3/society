@@ -1,4 +1,4 @@
-# Society
+# Society LLM
 This is a modern high tech solutions for studying the causes of social illnesses of society. 
 
 Please add issues for causes of social illness and add issues for solutions. 
